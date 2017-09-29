@@ -1,0 +1,61 @@
+
+EQIcons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CorrectMark
+  rotate: false
+  xy: 1, 1
+  size: 500, 456
+  orig: 500, 456
+  offset: 0, 0
+  index: -1
+IncorrectMark
+  rotate: false
+  xy: 503, 4
+  size: 477, 453
+  orig: 477, 453
+  offset: 0, 0
+  index: -1
+biodivIcon
+  rotate: false
+  xy: 982, 258
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+mobilIcon
+  rotate: false
+  xy: 982, 108
+  size: 236, 148
+  orig: 236, 148
+  offset: 0, 0
+  index: -1
+energyIcon
+  rotate: false
+  xy: 1182, 271
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+sandclockIcon
+  rotate: false
+  xy: 1370, 232
+  size: 123, 225
+  orig: 123, 225
+  offset: 0, 0
+  index: -1
+waterIcon
+  rotate: false
+  xy: 1220, 98
+  size: 113, 171
+  orig: 113, 171
+  offset: 0, 0
+  index: -1
+consumIcon
+  rotate: false
+  xy: 1335, 62
+  size: 179, 168
+  orig: 179, 168
+  offset: 0, 0
+  index: -1

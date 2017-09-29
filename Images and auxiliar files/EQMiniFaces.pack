@@ -1,0 +1,40 @@
+
+EQMiniFaces.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+consum
+  rotate: false
+  xy: 1, 1
+  size: 335, 214
+  orig: 335, 214
+  offset: 0, 0
+  index: -1
+energy
+  rotate: false
+  xy: 338, 1
+  size: 335, 214
+  orig: 335, 214
+  offset: 0, 0
+  index: -1
+mobil
+  rotate: false
+  xy: 675, 1
+  size: 335, 214
+  orig: 335, 214
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 1012, 1
+  size: 335, 214
+  orig: 335, 214
+  offset: 0, 0
+  index: -1
+biodiv
+  rotate: false
+  xy: 1349, 1
+  size: 322, 214
+  orig: 322, 214
+  offset: 0, 0
+  index: -1

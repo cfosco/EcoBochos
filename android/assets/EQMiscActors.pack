@@ -1,0 +1,19 @@
+
+EQMiscActors.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Star
+  rotate: false
+  xy: 1, 32
+  size: 494, 478
+  orig: 494, 478
+  offset: 0, 0
+  index: -1
+reloj arena
+  rotate: false
+  xy: 497, 1
+  size: 322, 509
+  orig: 322, 509
+  offset: 0, 0
+  index: -1

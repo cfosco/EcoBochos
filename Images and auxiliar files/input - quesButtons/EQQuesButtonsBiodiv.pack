@@ -1,0 +1,26 @@
+
+EQQuesButtonsBiodiv.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+recuadro biodiversidad pregunta
+  rotate: false
+  xy: 1, 277
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro biodiversidad respuesta presionado
+  rotate: false
+  xy: 1, 139
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1
+recuadro biodiversidad respuesta
+  rotate: false
+  xy: 1, 1
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1

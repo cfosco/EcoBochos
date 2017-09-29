@@ -1,0 +1,68 @@
+
+MainMenuButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boton base
+  rotate: false
+  xy: 1, 1007
+  size: 361, 361
+  orig: 361, 361
+  offset: 0, 0
+  index: -1
+icono tiempo presionado
+  rotate: false
+  xy: 1, 755
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+icono tiempo
+  rotate: false
+  xy: 1, 503
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+icono trofeos presionado
+  rotate: false
+  xy: 1, 252
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+icono trofeos
+  rotate: false
+  xy: 1, 1
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+boton triunfo
+  rotate: false
+  xy: 253, 742
+  size: 201, 263
+  orig: 201, 263
+  offset: 0, 0
+  index: -1
+boton tiempo
+  rotate: false
+  xy: 253, 493
+  size: 247, 247
+  orig: 247, 247
+  offset: 0, 0
+  index: -1
+boton ajustes
+  rotate: false
+  xy: 252, 281
+  size: 216, 210
+  orig: 216, 210
+  offset: 0, 0
+  index: -1
+boton puntajes
+  rotate: false
+  xy: 252, 99
+  size: 222, 180
+  orig: 222, 180
+  offset: 0, 0
+  index: -1

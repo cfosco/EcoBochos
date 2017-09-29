@@ -1,0 +1,26 @@
+
+EarthFramesShort.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+earthClosed
+  rotate: false
+  xy: 1, 1
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1
+earthOpenSE
+  rotate: false
+  xy: 760, 1
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1
+earthSemiClosed
+  rotate: false
+  xy: 1519, 1
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1

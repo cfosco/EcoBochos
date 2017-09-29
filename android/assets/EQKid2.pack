@@ -1,0 +1,26 @@
+
+EQKid2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+personaje 2 A
+  rotate: false
+  xy: 1, 1
+  size: 384, 483
+  orig: 384, 483
+  offset: 0, 0
+  index: -1
+personaje 2 C
+  rotate: false
+  xy: 387, 1
+  size: 384, 483
+  orig: 384, 483
+  offset: 0, 0
+  index: -1
+personaje 2 B
+  rotate: false
+  xy: 773, 2
+  size: 384, 482
+  orig: 384, 482
+  offset: 0, 0
+  index: -1

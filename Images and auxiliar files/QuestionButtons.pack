@@ -1,0 +1,145 @@
+
+QuestionButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+recuadro agua pregunta
+  rotate: false
+  xy: 1, 4186
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro biodiversidad pregunta
+  rotate: false
+  xy: 1, 3715
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro consumo pregunta
+  rotate: false
+  xy: 1, 3244
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro energia pregunta
+  rotate: false
+  xy: 1, 2773
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro movilidad pregunta
+  rotate: false
+  xy: 1, 2302
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro mundo pregunta
+  rotate: false
+  xy: 1, 1831
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro consumo respuesta presionado
+  rotate: false
+  xy: 1, 1692
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1
+recuadro consumo respuesta
+  rotate: false
+  xy: 1, 1553
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1
+recuadro energia respuesta presionado
+  rotate: false
+  xy: 1, 1414
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1
+recuadro energia respuesta
+  rotate: false
+  xy: 1, 1275
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1
+recuadro mundo respuesta presionado
+  rotate: false
+  xy: 1, 1136
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1
+recuadro mundo respuesta
+  rotate: false
+  xy: 1, 997
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1
+recuadro agua respuesta presionado
+  rotate: false
+  xy: 1, 859
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1
+recuadro agua respuesta
+  rotate: false
+  xy: 1, 721
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1
+recuadro biodiversidad respuesta presionado
+  rotate: false
+  xy: 1, 583
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1
+recuadro biodiversidad respuesta
+  rotate: false
+  xy: 1, 445
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1
+recuadro movilidad respuesta presionado
+  rotate: false
+  xy: 1, 307
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1
+recuadro movilidad respuesta
+  rotate: false
+  xy: 1, 169
+  size: 656, 136
+  orig: 656, 136
+  offset: 0, 0
+  index: -1
+ButtonDownDefault
+  rotate: false
+  xy: 1, 85
+  size: 395, 82
+  orig: 395, 82
+  offset: 0, 0
+  index: -1
+ButtonUpDefault
+  rotate: false
+  xy: 1, 1
+  size: 395, 82
+  orig: 395, 82
+  offset: 0, 0
+  index: -1

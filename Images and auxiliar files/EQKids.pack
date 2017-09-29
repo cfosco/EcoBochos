@@ -1,0 +1,89 @@
+
+EQKids.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+personaje 3 C
+  rotate: false
+  xy: 1, 1
+  size: 367, 520
+  orig: 367, 520
+  offset: 0, 0
+  index: -1
+personaje 3 A
+  rotate: false
+  xy: 370, 2
+  size: 367, 519
+  orig: 367, 519
+  offset: 0, 0
+  index: -1
+personaje 3 B
+  rotate: false
+  xy: 739, 2
+  size: 367, 519
+  orig: 367, 519
+  offset: 0, 0
+  index: -1
+personaje 4 A
+  rotate: false
+  xy: 1108, 19
+  size: 371, 502
+  orig: 371, 502
+  offset: 0, 0
+  index: -1
+personaje 4 C
+  rotate: false
+  xy: 1481, 19
+  size: 371, 502
+  orig: 371, 502
+  offset: 0, 0
+  index: -1
+personaje 4 B
+  rotate: false
+  xy: 1854, 20
+  size: 371, 501
+  orig: 371, 501
+  offset: 0, 0
+  index: -1
+personaje 2 A
+  rotate: false
+  xy: 2227, 38
+  size: 384, 483
+  orig: 384, 483
+  offset: 0, 0
+  index: -1
+personaje 2 C
+  rotate: false
+  xy: 2613, 38
+  size: 384, 483
+  orig: 384, 483
+  offset: 0, 0
+  index: -1
+personaje 2 B
+  rotate: false
+  xy: 2999, 39
+  size: 384, 482
+  orig: 384, 482
+  offset: 0, 0
+  index: -1
+personaje 1 A
+  rotate: false
+  xy: 3385, 52
+  size: 355, 469
+  orig: 355, 469
+  offset: 0, 0
+  index: -1
+personaje 1 B
+  rotate: false
+  xy: 3742, 52
+  size: 355, 469
+  orig: 355, 469
+  offset: 0, 0
+  index: -1
+personaje 1 C
+  rotate: false
+  xy: 4099, 53
+  size: 355, 468
+  orig: 355, 468
+  offset: 0, 0
+  index: -1

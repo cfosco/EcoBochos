@@ -1,0 +1,26 @@
+
+EQQuesButtonsEnergy.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+recuadro energia pregunta
+  rotate: false
+  xy: 1, 279
+  size: 656, 469
+  orig: 656, 469
+  offset: 0, 0
+  index: -1
+recuadro energia respuesta presionado
+  rotate: false
+  xy: 1, 140
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1
+recuadro energia respuesta
+  rotate: false
+  xy: 1, 1
+  size: 656, 137
+  orig: 656, 137
+  offset: 0, 0
+  index: -1

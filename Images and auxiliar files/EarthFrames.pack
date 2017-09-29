@@ -1,0 +1,47 @@
+
+EarthFrames.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+earthClosed
+  rotate: false
+  xy: 1, 1
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1
+earthOpenNE
+  rotate: false
+  xy: 760, 1
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1
+earthOpenSE
+  rotate: false
+  xy: 1519, 1
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1
+earthSemiClosed
+  rotate: false
+  xy: 2278, 1
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1
+earthOpenNW
+  rotate: false
+  xy: 3037, 2
+  size: 757, 756
+  orig: 757, 756
+  offset: 0, 0
+  index: -1
+earthOpenSW
+  rotate: false
+  xy: 3796, 1
+  size: 756, 757
+  orig: 756, 757
+  offset: 0, 0
+  index: -1

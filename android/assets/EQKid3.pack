@@ -1,0 +1,26 @@
+
+EQKid3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+personaje 3 C
+  rotate: false
+  xy: 1, 1
+  size: 367, 520
+  orig: 367, 520
+  offset: 0, 0
+  index: -1
+personaje 3 A
+  rotate: false
+  xy: 370, 2
+  size: 367, 519
+  orig: 367, 519
+  offset: 0, 0
+  index: -1
+personaje 3 B
+  rotate: false
+  xy: 739, 2
+  size: 367, 519
+  orig: 367, 519
+  offset: 0, 0
+  index: -1

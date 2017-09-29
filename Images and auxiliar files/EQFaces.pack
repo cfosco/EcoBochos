@@ -1,0 +1,271 @@
+
+EQFaces.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mobil B
+  rotate: false
+  xy: 1, 1126
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+mobil C
+  rotate: false
+  xy: 1, 866
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+mobil D
+  rotate: false
+  xy: 308, 1126
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+mobil E
+  rotate: false
+  xy: 1, 606
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+mobil2 B
+  rotate: false
+  xy: 308, 866
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+mobil2 C
+  rotate: false
+  xy: 615, 1126
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+mobil2 D
+  rotate: false
+  xy: 1, 346
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+mobil F
+  rotate: false
+  xy: 308, 606
+  size: 304, 258
+  orig: 304, 258
+  offset: 0, 0
+  index: -1
+mobil A
+  rotate: false
+  xy: 615, 867
+  size: 303, 257
+  orig: 303, 257
+  offset: 0, 0
+  index: -1
+mobil2 A
+  rotate: false
+  xy: 615, 867
+  size: 303, 257
+  orig: 303, 257
+  offset: 0, 0
+  index: -1
+consum B
+  rotate: false
+  xy: 1, 13
+  size: 216, 331
+  orig: 216, 331
+  offset: 0, 0
+  index: -1
+biodiv2 B
+  rotate: false
+  xy: 922, 1176
+  size: 291, 208
+  orig: 291, 208
+  offset: 0, 0
+  index: -1
+biodiv2 C
+  rotate: false
+  xy: 308, 396
+  size: 291, 208
+  orig: 291, 208
+  offset: 0, 0
+  index: -1
+biodiv2 D
+  rotate: false
+  xy: 1215, 1176
+  size: 291, 208
+  orig: 291, 208
+  offset: 0, 0
+  index: -1
+biodiv2 A
+  rotate: false
+  xy: 1508, 1177
+  size: 289, 207
+  orig: 289, 207
+  offset: 0, 0
+  index: -1
+consum C
+  rotate: false
+  xy: 219, 13
+  size: 216, 331
+  orig: 216, 331
+  offset: 0, 0
+  index: -1
+consum D
+  rotate: false
+  xy: 437, 63
+  size: 214, 331
+  orig: 214, 331
+  offset: 0, 0
+  index: -1
+water A
+  rotate: false
+  xy: 922, 984
+  size: 296, 190
+  orig: 296, 190
+  offset: 0, 0
+  index: -1
+water B
+  rotate: false
+  xy: 1220, 983
+  size: 296, 191
+  orig: 296, 191
+  offset: 0, 0
+  index: -1
+water C
+  rotate: false
+  xy: 1518, 984
+  size: 296, 191
+  orig: 296, 191
+  offset: 0, 0
+  index: -1
+water D
+  rotate: false
+  xy: 920, 791
+  size: 296, 191
+  orig: 296, 191
+  offset: 0, 0
+  index: -1
+water E
+  rotate: false
+  xy: 1218, 790
+  size: 296, 191
+  orig: 296, 191
+  offset: 0, 0
+  index: -1
+water F
+  rotate: false
+  xy: 1518, 791
+  size: 296, 191
+  orig: 296, 191
+  offset: 0, 0
+  index: -1
+consum A
+  rotate: false
+  xy: 614, 534
+  size: 213, 330
+  orig: 213, 330
+  offset: 0, 0
+  index: -1
+consum E
+  rotate: false
+  xy: 829, 458
+  size: 214, 331
+  orig: 214, 331
+  offset: 0, 0
+  index: -1
+consum F
+  rotate: false
+  xy: 1045, 457
+  size: 214, 331
+  orig: 214, 331
+  offset: 0, 0
+  index: -1
+energy B
+  rotate: false
+  xy: 1261, 504
+  size: 184, 284
+  orig: 184, 284
+  offset: 0, 0
+  index: -1
+energy C
+  rotate: false
+  xy: 1447, 504
+  size: 184, 284
+  orig: 184, 284
+  offset: 0, 0
+  index: -1
+energy D
+  rotate: false
+  xy: 1633, 505
+  size: 182, 284
+  orig: 182, 284
+  offset: 0, 0
+  index: -1
+biodiv A
+  rotate: false
+  xy: 1261, 287
+  size: 250, 215
+  orig: 250, 215
+  offset: 0, 0
+  index: -1
+biodiv B
+  rotate: false
+  xy: 1513, 287
+  size: 250, 215
+  orig: 250, 215
+  offset: 0, 0
+  index: -1
+biodiv E
+  rotate: false
+  xy: 653, 240
+  size: 250, 216
+  orig: 250, 216
+  offset: 0, 0
+  index: -1
+biodiv C
+  rotate: false
+  xy: 653, 23
+  size: 250, 215
+  orig: 250, 215
+  offset: 0, 0
+  index: -1
+biodiv F
+  rotate: false
+  xy: 905, 239
+  size: 250, 216
+  orig: 250, 216
+  offset: 0, 0
+  index: -1
+biodiv D
+  rotate: false
+  xy: 905, 23
+  size: 250, 214
+  orig: 250, 214
+  offset: 0, 0
+  index: -1
+energy A
+  rotate: false
+  xy: 1157, 2
+  size: 182, 283
+  orig: 182, 283
+  offset: 0, 0
+  index: -1
+energy E
+  rotate: false
+  xy: 1341, 1
+  size: 182, 284
+  orig: 182, 284
+  offset: 0, 0
+  index: -1
+energy F
+  rotate: false
+  xy: 1525, 1
+  size: 182, 284
+  orig: 182, 284
+  offset: 0, 0
+  index: -1

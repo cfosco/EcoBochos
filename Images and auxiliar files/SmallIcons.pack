@@ -1,0 +1,40 @@
+
+SmallIcons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lluvia de iconos4
+  rotate: false
+  xy: 1, 1
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+lluvia de iconos2
+  rotate: false
+  xy: 201, 52
+  size: 236, 148
+  orig: 236, 148
+  offset: 0, 0
+  index: -1
+lluvia de iconos3
+  rotate: false
+  xy: 439, 14
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+lluvia de iconos1
+  rotate: false
+  xy: 627, 32
+  size: 179, 168
+  orig: 179, 168
+  offset: 0, 0
+  index: -1
+lluvia de iconos5
+  rotate: false
+  xy: 808, 29
+  size: 113, 171
+  orig: 113, 171
+  offset: 0, 0
+  index: -1
