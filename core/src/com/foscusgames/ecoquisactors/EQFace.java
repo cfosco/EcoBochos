@@ -12,6 +12,11 @@ import com.badlogic.gdx.utils.Array;
 import com.foscusgames.ecoquis.EQGlobals.Category;
 import com.foscusgames.ecoquis.EQSounds;
 
+/**
+ * LibGDX Group of Widgets representing the Faces, or characters of the game.
+ * @author Camilo
+ *
+ */
 public class EQFace extends WidgetGroup {
 	
 	private Array<Drawable> images;

@@ -2,6 +2,12 @@ package com.foscusgames.ecoquis;
 
 import com.badlogic.gdx.math.Vector2;
 
+
+/**
+ * Stores global variables used throughout the project.
+ * @author Camilo
+ *
+ */
 public class EQGlobals {
 	
 	public static final int easyQuestionRightAnswerScore = 10;

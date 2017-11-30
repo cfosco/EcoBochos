@@ -6,6 +6,11 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.WidgetGroup;
 import com.foscusgames.ecoquis.EQAssets;
 
+/**
+ * Simple semi transparent Black Overlay class that is extended by other classes.
+ * @author Camilo
+ *
+ */
 public class EQBlackOverlay extends WidgetGroup{
 
 	private Image blackOverlay;

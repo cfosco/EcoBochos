@@ -6,6 +6,14 @@ import com.foscusgames.ecoquisactors.EQNMTimer;
 import com.foscusgames.ecoquishandlers.EQQuestionHandler;
 import com.foscusgames.ecoquisscreens.GameScreen;
 
+
+/** 
+ * Type of match where objective is to find all 5 characters, or "Faces". 
+ * Extends EQMatch and implements behavior related to this gamemode.
+ * 
+ * @author Camilo
+ *
+ */
 public class EQNormalMatch extends EQMatch {
 	
 	

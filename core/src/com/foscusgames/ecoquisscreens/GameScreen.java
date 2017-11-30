@@ -24,6 +24,11 @@ import com.foscusgames.ecoquisactors.EQFacesHolder;
 import com.foscusgames.ecoquisoverlays.EQCategoryOverlay;
 import com.foscusgames.ecoquisoverlays.EQEndgameOverlay;
 
+/**
+ * Screen seen during the main loop of a match. Contains the earth, ready to spin, the faces and the score.
+ * @author Camilo
+ *
+ */
 public class GameScreen extends EQScreen {
 
 	private EQMatch match;

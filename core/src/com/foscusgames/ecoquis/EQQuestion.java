@@ -5,6 +5,12 @@ import java.util.ArrayList;
 import com.badlogic.gdx.Gdx;
 import com.foscusgames.ecoquis.EQGlobals.Category;
 
+
+/** 
+ * Class representing each question that may be asked. Stores its difficulty level, possible answers and right answer number.
+ * @author Camilo
+ *
+ */
 public class EQQuestion {
 	
 	Category category;

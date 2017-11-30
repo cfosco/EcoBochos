@@ -10,6 +10,12 @@ import com.foscusgames.ecoquisscreens.GameScreen;
 import com.foscusgames.ecoquisscreens.MainMenuScreen;
 import com.foscusgames.ecoquisscreens.QuestionScreen;
 
+/**
+ * This class represents a Match, one particular game played by a player. Handles the main game loop of the match.
+ * @author Camilo
+ *
+ */
+
 public abstract class EQMatch {
 	
 	public enum MatchState {

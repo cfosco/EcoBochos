@@ -5,6 +5,11 @@ import com.foscusgames.ecoquisactors.EQTMTimer;
 import com.foscusgames.ecoquishandlers.EQQuestionHandler;
 import com.foscusgames.ecoquisscreens.GameScreen;
 
+/**
+ * Represents the Time gamemode. Extends EQMatch and has a ScoreTimer that keeps track of time related constraints.
+ * @author Camilo
+ *
+ */
 public class EQTimeMatch extends EQMatch {
 	
 	public EQTimeMatch(EQQuestionHandler qH, EQGame g) {

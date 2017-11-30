@@ -14,6 +14,11 @@ import com.foscusgames.ecoquis.EQNormalMatch;
 import com.foscusgames.ecoquis.EQTimeMatch;
 import com.foscusgames.ecoquisscreens.GameScreen;
 
+/**
+ * Class representing the clickable earth of the gamemodes. Contains the rotating mini faces and knows how to position itself.
+ * @author Camilo
+ *
+ */
 public class EQEarth extends Group {
 	
 
@@ -129,21 +134,6 @@ public class EQEarth extends Group {
 		
 	}
 
-//	@Override
-//    public void act(float delta)
-//    {
-//        super.act(delta);
-//        
-//        timeSinceLastBlink +=delta;
-//        
-//        if (timeSinceLastBlink>frameTime*50) {
-//        	timeSinceLastBlink = 0;
-//        	earth.unpauseAnimation();
-//        } else if (timeSinceLastBlink>frameTime*6) {
-//        	earth.pauseAnimation();
-//        }
-//        
-//    }
 
 	public void onResize(int width, int height) {
 		

@@ -15,6 +15,11 @@ import com.foscusgames.ecoquis.EQNormalMatch;
 import com.foscusgames.ecoquis.EQSounds;
 import com.foscusgames.ecoquis.EQTimeMatch;
 
+/**
+ * Actor that indicates when an extra point is available, and shows progress to achieve that extra point.
+ * @author Camilo
+ *
+ */
 public class EQExtraPointIndicator extends Group {
 	
 	private Image barHolder;
@@ -33,6 +38,13 @@ public class EQExtraPointIndicator extends Group {
 	private boolean isFull=false;
 	private boolean maxPointsAcquired;
 
+	/**
+	 * General initialization shared by all constructors.
+	 * @param x: x position of this actor (px)
+	 * @param y: y position of this actor (px)
+	 * @param w: width of this actor (px)
+	 * @param h: height of this actor (px)
+	 */
 	public void init(float x, float y, float w, float h) {
 //		barHolder = new Image(EQAssets.miscAtlas.findRegion("BarHolder"));
 //		bar = new Image(EQAssets.miscAtlas.findRegion("Bar"));

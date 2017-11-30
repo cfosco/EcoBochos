@@ -20,6 +20,11 @@ import com.foscusgames.ecoquis.EQNormalMatch;
 import com.foscusgames.ecoquis.EQSounds;
 import com.foscusgames.ecoquis.EQTimeMatch;
 
+/**
+ * ClickListener for the Earth Actor: calls for spin or endgame action when earth is clicked.
+ * @author Camilo
+ *
+ */
 public class EQEarthClickListener extends ClickListener {
 
 	private EQMatch match;
@@ -51,7 +56,12 @@ public class EQEarthClickListener extends ClickListener {
 	}
 
 
-	
+	/**
+	 * When clicked, checks for the game state and acts accordingly.
+	 * @param event: LibGDX InputEvent
+	 * @param x: x position of click
+	 * @param y: y position of click
+	 */
 	public void clicked(InputEvent event, float x, float y) {
 
 		if(!(match.getState() == MatchState.WIN)) {

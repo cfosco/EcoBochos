@@ -11,6 +11,11 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.utils.Array;
 import com.foscusgames.ecoquis.EQSounds;
 
+/**
+ * General class for particle explosions, derived from LibGDX Group (an Actor).
+ * @author Camilo
+ *
+ */
 public class ParticleExplosion extends Group {
 
 	Array<Image> particles;

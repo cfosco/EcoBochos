@@ -16,6 +16,11 @@ import com.foscusgames.ecoquis.EQGlobals.Category;
 import com.foscusgames.ecoquis.EQMatch;
 import com.foscusgames.ecoquis.EQMatch.MatchState;
 
+/** 
+ * Widget group that is tasked with containing the 5 faces and positioning them correctly on the screen.
+ * @author Camilo
+ *
+ */
 public class EQFacesHolder extends WidgetGroup {
 
 	EQFace mobilFace, energyFace, biodivFace, consumFace, waterFace;
@@ -41,6 +46,7 @@ public class EQFacesHolder extends WidgetGroup {
 		float faceW = EQGlobals.w*0.17f;
 		float faceH = EQGlobals.w*0.17f;	
 		
+		// Generate our 5 faces
 		mobilFace = new EQFace(fS.getDrawable("mobil A"),fS.getDrawable("mobil B"), fS.getDrawable("mobil C"), fS.getDrawable("mobil D"), EQAssets.iconsAtlas.findRegion("mobilIcon"),Category.MOBIL, this,faceW,faceH);
 		energyFace = new EQFace(fS.getDrawable("energy A"),fS.getDrawable("energy B"), fS.getDrawable("energy C"), fS.getDrawable("energy D"), EQAssets.iconsAtlas.findRegion("energyIcon"),Category.ENERGY, this,faceW,faceH);
 		biodivFace = new EQFace(fS.getDrawable("biodiv A"),fS.getDrawable("biodiv B"), fS.getDrawable("biodiv C"), fS.getDrawable("biodiv D"), EQAssets.iconsAtlas.findRegion("biodivIcon"),Category.BIODIV, this,faceW,faceH);
@@ -50,6 +56,7 @@ public class EQFacesHolder extends WidgetGroup {
 		table = new Table();
 		table.setFillParent(true);
 		
+		// Add them to the internal table of the FaceHolder
 		table.add(mobilFace).size(faceW,faceH).pad(EQGlobals.w*0.01f);
 		table.add(energyFace).size(faceW,faceH).pad(EQGlobals.w*0.01f);
 		table.add(waterFace).size(faceW,faceH).pad(EQGlobals.w*0.01f);

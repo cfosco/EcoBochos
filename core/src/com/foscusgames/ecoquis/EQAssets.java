@@ -9,7 +9,12 @@ import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.scenes.scene2d.utils.Drawable;
 import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
-
+/** 
+ * Class for loading, updating and managing game assets such as Textures, Sounds and Fonts.
+ * 
+ * @author Camilo
+ *
+ */
 public class EQAssets {
 	
 	private static AssetManager mgr;
@@ -23,7 +28,7 @@ public class EQAssets {
 	
 	public static BitmapFont scoreFont, mainMenuFont, questionFont, numberFont, answerFont;
 
-	public static Sound buttonClick;
+//	public static Sound buttonClick;
 
 	public static Texture renaultLogo, casatierraLogo, neurarLogo;
 
@@ -52,11 +57,17 @@ public class EQAssets {
 
 
 
-	
+	/**
+	 Instantiates an AssetManager, libgdx class for loading different kinds of assets with built in progress estimation
+	 */
 	public static void generateAssetManager() {
 		mgr = new AssetManager();
 	}
 	
+	
+	/**
+	 * When called, loads all textures, fonts and sounds. Called only once, when the program is booting.
+	 */
 	public static void loadAssets() {
 		
 		// TEXTURES
@@ -106,6 +117,9 @@ public class EQAssets {
 		
 	}
 	
+	/**
+	 *  Puts all the loaded assets into easy to call static variables.
+	 */
 	public static void generateVariables() {
 		
 		// TEXTURES
@@ -152,6 +166,8 @@ public class EQAssets {
 		
 	}
 	
+	
+	
 	private static void scaleFonts() {
 
 			float x1 = 520;
@@ -172,6 +188,9 @@ public class EQAssets {
 		
 	}
 
+	/**
+	 * This function prepares the assets that are needed during the loading screen, before everything else is properly loaded.
+	 */
 	public static void prepareLoadingScreen() {
 		
         mgr.load("WhiteOverlay.png", Texture.class);

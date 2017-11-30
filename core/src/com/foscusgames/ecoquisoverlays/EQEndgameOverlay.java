@@ -21,7 +21,12 @@ import com.foscusgames.ecoquis.EQSounds;
 import com.foscusgames.ecoquis.EQTimeMatch;
 import com.foscusgames.ecoquisactors.ParticleExplosion;
 
-
+/**
+ * Simple semi transparent Black Overlay class that is used as a dimmed background when transitioning 
+ * from the spinning state to the ENDGAME state.
+ * @author Camilo
+ *
+ */
 public class EQEndgameOverlay extends EQBlackOverlay {
 
 

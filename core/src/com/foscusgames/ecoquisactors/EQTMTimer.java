@@ -17,6 +17,11 @@ import com.foscusgames.ecoquis.EQMatch.MatchState;
 import com.foscusgames.ecoquis.EQSounds;
 import com.foscusgames.ecoquis.EQTimeMatch;
 
+/**
+ * Class that keeps track of time for the Time gamemode. Can be rendered on screen as a sand clock.
+ * @author Camilo
+ *
+ */
 public class EQTMTimer extends EQScoreTimer {
 
 	protected EQTimeMatch match;
@@ -63,6 +68,7 @@ public class EQTMTimer extends EQScoreTimer {
 		timeAddedIndicator.setAlignment(Align.center);
 		resetTimeAddedIndicator();
 		
+		// Defining the visual sandclock
 		sandClockGroup.setBounds(this.width/2f-sandClockWidth/2, -sandClockHeight+this.height, sandClockWidth, sandClockHeight);
 		sandClockGroup.setOrigin(sandClockWidth/2,sandClockHeight);
 		sandClockGroup.addActor(sand);

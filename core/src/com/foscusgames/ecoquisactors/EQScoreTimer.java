@@ -2,6 +2,11 @@ package com.foscusgames.ecoquisactors;
 
 import com.badlogic.gdx.scenes.scene2d.Group;
 
+/**
+ * General Class that keeps track of time.
+ * @author Camilo
+ *
+ */
 public abstract class EQScoreTimer extends Group {
 	
 

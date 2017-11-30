@@ -4,6 +4,11 @@ import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.scenes.scene2d.ui.Button;
 import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
 
+/**
+ * General Button class with an animation, used to represent the underlying button on the Faces.
+ * @author Camilo
+ *
+ */
 public class AnimatedButton extends Button {
 
 	protected BlinkAnimation animation;

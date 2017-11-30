@@ -7,8 +7,13 @@ import com.foscusgames.ecoquishandlers.EQQuestionHandler;
 import com.foscusgames.ecoquisscreens.LoadingScreen;
 import com.foscusgames.interfaces.ActionResolver;
 
+/**
+ * Main class for the game loop, Instantiated when app is booting. 
+ * 
+ * @author Camilo
+ *
+ */
 public class EQGame extends Game {
-	//AssetManager assetMgr;
 	EQQuestionHandler questionHandler;
 	EQMatch match;
 	public ActionResolver actionResolver;
@@ -20,7 +25,6 @@ public class EQGame extends Game {
 	@Override
 	public void create () {
 		
-		//assetMgr = new AssetManager();
 		EQAssets.generateAssetManager();
 		questionHandler = new EQQuestionHandler();
 		

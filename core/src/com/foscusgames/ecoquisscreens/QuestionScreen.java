@@ -26,6 +26,12 @@ import com.foscusgames.ecoquis.EQMatch.MatchState;
 import com.foscusgames.ecoquis.EQQuestion;
 import com.foscusgames.ecoquisactors.BlinkAnimation;
 
+/**
+ * Main screen that is shown when answering a question. Contains the question holder, the 4 answers, 
+ * and shows the correct or incorrect popup when the user makes a choice.
+ * @author Camilo
+ *
+ */
 public class QuestionScreen extends EQScreen {
 	
 	Table quesTable;

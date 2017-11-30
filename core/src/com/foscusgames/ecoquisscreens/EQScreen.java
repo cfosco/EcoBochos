@@ -8,6 +8,11 @@ import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.utils.viewport.ScreenViewport;
 import com.foscusgames.ecoquis.EQGlobals;
 
+/**
+ * Screen baseline class for the game. Extended by the other screens. Defines basic behavior specific to this game.
+ * @author Camilo
+ *
+ */
 public class EQScreen implements Screen {
 	
 	protected Stage stage;

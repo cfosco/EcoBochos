@@ -10,6 +10,11 @@ import com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle;
 import com.badlogic.gdx.utils.Align;
 import com.foscusgames.ecoquis.EQGlobals;
 
+/**
+ * Class that keeps track of time for the normal gamemode.
+ * @author Camilo
+ *
+ */
 public class EQNMTimer extends EQScoreTimer {
 	
 	protected Image bg;

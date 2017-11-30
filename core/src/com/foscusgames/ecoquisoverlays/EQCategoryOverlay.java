@@ -22,6 +22,12 @@ import com.foscusgames.ecoquisscreens.AnimatedImage;
 import com.foscusgames.ecoquis.EQMatch;
 import com.foscusgames.ecoquis.EQSounds;
 
+/**
+ * Simple semi transparent Black Overlay class that is used as a dimmed background when transitioning 
+ * from the spinning state to the question state.
+ * @author Camilo
+ *
+ */
 public class EQCategoryOverlay extends EQBlackOverlay {
 	
 

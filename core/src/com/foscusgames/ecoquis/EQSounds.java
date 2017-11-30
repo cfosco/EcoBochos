@@ -6,6 +6,12 @@ import com.badlogic.gdx.audio.Music;
 import com.badlogic.gdx.audio.Sound;
 import com.foscusgames.ecoquis.EQGlobals.Category;
 
+/**
+ * Class tasked with handling all sounds for the game. 
+ * When a sound is needed, the static variable can be called directly.
+ * @author Camilo
+ *
+ */
 public class EQSounds {
 
 	private static boolean soundOn = true;
@@ -75,6 +81,7 @@ public class EQSounds {
 		}
 	}
 
+	
 	public static void playCategSound(Category cat) {
 
 		if (soundOn) {

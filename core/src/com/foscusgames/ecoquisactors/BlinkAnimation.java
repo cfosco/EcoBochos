@@ -6,6 +6,13 @@ import com.badlogic.gdx.math.MathUtils;
 import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
 import com.badlogic.gdx.utils.Array;
 
+
+/**
+ * Special type of animation made to be replayed in a Ping pong loop every r seconds, where r is random.
+ * Extends the general Animation class from LibGDX.
+ * @author Camilo
+ *
+ */
 public class BlinkAnimation extends Animation{
 
 
