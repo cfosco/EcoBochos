@@ -12,4 +12,4 @@ The code is fully modularized and adheres to OOP concepts. The LibGDX framework 
 
 ## Game screenshots
 ![EcoBochos main menu](https://github.com/cfosco/EcoBochos/blob/master/Images%20and%20auxiliar%20files/Screenshot%201.png)
-![EcoBochos match]('https://github.com/cfosco/EcoBochos/blob/master/Images%20and%20auxiliar%20files/Screenshot%203.png')
+![EcoBochos match](https://github.com/cfosco/EcoBochos/blob/master/Images%20and%20auxiliar%20files/Screenshot%203.png)
